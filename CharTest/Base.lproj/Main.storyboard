@@ -42,6 +42,7 @@
                     </view>
                     <connections>
                         <outlet property="barChart" destination="cj9-ja-Q0M" id="gSg-gh-gAe"/>
+                        <outlet property="segment" destination="Sd1-lQ-myn" id="G6c-II-I7K"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
